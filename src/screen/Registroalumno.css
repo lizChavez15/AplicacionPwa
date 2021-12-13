@@ -1,0 +1,29 @@
+table{
+    border: 1px solid #000;
+    width: 50%;
+    height: auto;
+    margin: 12px;
+}
+
+tr{
+    border: 1px solid #000;
+}
+
+td{
+    border: 1px solid #000; 
+    text-align: center; 
+}
+
+.alumno_img{
+    width: 200px;
+    height: 200px;
+    
+}
+
+.contenedor__table{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

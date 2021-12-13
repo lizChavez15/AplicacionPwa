@@ -1,0 +1,42 @@
+{
+  "short_name": "IngEducacion",
+  "name": "IngEducacion",
+  "icons": [
+    {
+      "src": "favicon.ico.png",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo64.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "logo100.png",
+      "type": "image/png",
+      "sizes": "100x100"
+    },
+  
+    {
+      "src": "logo128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    
+    {
+      "src": "logo196.png",
+      "type": "image/png",
+      "sizes": "196x196"
+    },
+    {
+      "src": "logos512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

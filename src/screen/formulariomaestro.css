@@ -1,0 +1,57 @@
+.Contenedor1{
+    width: 100%;
+    height: 54.05rem;
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5)
+      ), url(../assets/img/in-red-shirt-group-of-people-at-business-conference-in-modern-classroom-at-daytime.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.Contenedor__form{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.form{
+    width: 550px;
+    height: auto;
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: rgba( 255, 255, 255, 0.1 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 8px );
+    -webkit-backdrop-filter: blur( 8px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    color:#fff;
+  
+}
+.titulo__input{
+    font-size: 23px;
+    margin: 12px;
+   
+
+}
+.form__input{
+    padding: 12px;
+}
+
+.btn__form{
+    margin-top:12px;
+    padding: 10px;
+    border-radius: 12px;
+}
+
+.select__form{
+    padding: 10px;
+   
+}
